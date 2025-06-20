@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up? Here with some curosity? Let's solve together </h1>
 
 ###
 
-<h5 align="center">My name is Amna Arshad Khan and I'm an Electrical (Electronics) Engineer from COMSATS University Islamabad and specializing in IC Design from NUST University Islamabad (MS Electrical Engineering---IC Designs).<br><br>FPGA || IP Development || RISCV || SOC || Embedded Systems</h5>
+<h4 align="center">My name is Amna Arshad Khan and I'm an Electrical (Electronics) Engineer from COMSATS University Islamabad and specializing in IC Design from NUST University Islamabad (MS Electrical Engineering---IC Designs).<br><br>FPGA || IP Development || RISCV || SOC || Embedded Systems</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Being a HARDWARE DEVELOPER I'm interested in all things about technology, from low level hardware, FPGAs and infrastructure to Verification development in different languages like Verilog, SystemVerilog, OOP, C++ and many more.<br><br>Currently I am working as an FPGA and DSP Engineer.<br><br>🔭Skills(Softwares):<br>Xilinx Vivado,MATLAB,Cadence (Vituoso,Xcelium),Linux<br><br>📫 How to reach me : amnaarshadkhan837@gmail.com.</p>
+<p align="left">🎯 Being a HARDWARE DEVELOPER I'm interested in all things about technology, from low level hardware, FPGAs and infrastructure to Verification development in different languages like Verilog, SystemVerilog, OOP, C++ and many more.<br><br>Currently I am working as an FPGA and DSP Engineer.<br><br>🔭Skills(Softwares):<br>Xilinx Vivado,MATLAB,Cadence (Virtuoso,Xcelium),Linux<br><br>📫 How to reach me : amnaarshadkhan837@gmail.com.</p>
 
 ###
 
